@@ -1,6 +1,6 @@
-<h2 align="center">Welcome everyone!!!</h2>
+<h1 align="center">Hi, I'm Gustavo!</h1>
 
-<h4><p align="center">My name is Gustavo! I'm a Front-end Developer 💻</p></h4>
+<h4><p align="center">I'm a Front-end Developer 💻</p></h4>
 
 <h2 align="center">Main skills/technologies</h2>
 
